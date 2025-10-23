@@ -1,0 +1,35 @@
+.logo { border: 3px solid green; 
+border-top-right-radius: 100px;
+border-top-left-radius: 100px;
+border-bottom-left-radius: 100px;
+border-bottom-right-radius: 100px;
+box-shadow: 5px 5px 15px  rgb(90, 165, 94); }
+
+.table { border-top-right-radius: 70px;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;}
+
+.textcolor { color:  rgb(66, 175, 72) ;}
+ 
+.redtext { color: rgb(201, 8, 8);}
+
+.roundradius {border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;}
+
+.cell { border: none ;
+    border-top-right-radius: 70px; 
+    font-size: larger;
+    font-family: tahoma;
+    text-shadow: 2px 2px   rgb(131, 192, 134);}
+
+.cell1 { border-top-left-radius: 70px;
+        border: none;}
+
+.cell2 { border-bottom-left-radius: 60px;}
+.cell3 { border-bottom-right-radius: 60px;}
+
+.lastcell {border: none; font-size: larger;}
+
+
+
