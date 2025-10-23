@@ -1,0 +1,69 @@
+.container1
+{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+    margin: 10px;
+}
+
+.logo
+{
+    background-color: black;
+    flex: 3;
+    margin: 10px;
+}
+
+.title
+{
+    background-color: royalblue;
+    flex: 7;
+    margin:10px;
+}
+
+.container2
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 400px;
+    background-color: aqua;
+    margin: 20px 10px;
+}
+
+
+.mainContent1
+{
+    background-color: brown;
+    flex: 2;
+    margin: 10px;
+}
+
+.mainContent2
+{
+    background-color: green;
+    flex: 8;
+    margin: 10px;
+    display: flex;
+}
+
+.content2a
+{
+    background-color: blueviolet;
+    flex: 3;
+    margin: 10px;
+}
+
+.content2b
+{
+    background-color: pink;
+    flex:3;
+    margin: 10px;
+}
+
+.content2c
+{
+    background-color: orange;
+    flex: 4;
+    margin: 10px;
+}
